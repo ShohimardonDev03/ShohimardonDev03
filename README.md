@@ -110,7 +110,7 @@
       <td><b>📘 Project on Aws server</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
-      <td><b><🔑>Password</td>
+      <td><b>🔑 Password</td>
     </tr>
   </thead>
   <tbody>
