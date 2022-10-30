@@ -62,6 +62,22 @@
 <code><img height="40" width="60" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="60" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+
+
+
+<code><img height="40" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wRMdL8Hi--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/5wv3jwohdhckevgdejku.png"></code>
+
+<code><img height="40" width="60" src="https://static.javatpoint.com/redis/images/redis-tutorial.png"></code>
+<code><img height="40" width="60" src="https://repository-images.githubusercontent.com/36793280/5eec9480-8c3c-11e9-8069-5fc3e01c739a"></code>
+<code><img height="40" width="60" src="https://tegeria.com/wp-content/uploads/2019/02/microservice_archi_thum_2.png"></code>
+
+<code><img height="40" width="60" src="https://e7.pngegg.com/pngimages/762/712/png-clipart-logo-kibana-elasticsearch-kiba-text-presentation.png"></code>
+<code><img height="40" width="60" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png"></code>
+<code><img height="40" width="60" src="https://i.pinimg.com/originals/52/dc/48/52dc4834f52d96ef32e0f85208373c02.png"></code>
+<code><img height="40" width="60" src="https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png"></code>
+<code><img height="40" width="60" src="https://seeklogo.com/images/P/prometheus-monitoring-system-logo-3C07B67C00-seeklogo.com.png"></code>
+
+
 <code><img height="40" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 #
