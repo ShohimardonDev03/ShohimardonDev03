@@ -68,6 +68,7 @@
 <code><img height="40" width="60" src="https://res.cloudinary.com/practicaldev/image/fetch/s--wRMdL8Hi--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/5wv3jwohdhckevgdejku.png"></code>
 
 <code><img height="40" width="60" src="https://static.javatpoint.com/redis/images/redis-tutorial.png"></code>
+#
 <code><img height="40" width="60" src="https://repository-images.githubusercontent.com/36793280/5eec9480-8c3c-11e9-8069-5fc3e01c739a"></code>
 <code><img height="40" width="60" src="https://tegeria.com/wp-content/uploads/2019/02/microservice_archi_thum_2.png"></code>
 
@@ -80,10 +81,10 @@
 
 <code><img height="40" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-#
 
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+#
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Grafana_logo.png"></code>
 <code><img height="40" width="40" src="http://cdn2.hubspot.net/hub/203759/file-2371452605-png/images/blog/the-ten-most-important-security-controls-missing-in-javaee.png"></code>
