@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 - 💻 I am Java backend and Database developer.
 - 📝 I have a strong interest in Data Science and Artificial Intelligence
@@ -24,17 +24,17 @@
 
 <p align="center">
     <img src="https://gpvc.arturio.dev/ShohimardonDev03" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
-    <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ShohimardonDev03&style=flat&color=brightgreen"> •    -->
+   
     <a href="https://user-badge.committers.top/india_private/ShohimardonDev03"><img src="https://user-badge.committers.top/india_private/ShohimardonDev03.svg"></a> •
     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ShohimardonDev03?label=Followers&style=social"> •
     <img src="https://img.shields.io/github/stars/ShohimardonDev03?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
     <a href="https://github.com/sponsors/ShohimardonDev03"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <code>
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FShohimardonDev03" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
-</p> -->
+</p> 
 
 #
 
@@ -87,19 +87,17 @@
 <details open="">
     <summary>
         <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-    
-        
-        <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
     </summary>
     <br/>
 
-    <p align="center">
+ 
+</details>
+<br/>
+   <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShohimardonDev03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
         <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohimardonDev03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
     </p>
-</details>
-<br/>
-true)
 
 ![svg](https://raw.githubusercontent.com/ShohimardonDev03/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
@@ -144,6 +142,9 @@ true)
 
 <br>
 <br>
+
+** Waka time **
+<img src="https://wakatime.com/share/@shohimardon_dev/f7eab8c1-909f-439a-a801-ebcb1baad082.svg">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%203%20mins-blue)
