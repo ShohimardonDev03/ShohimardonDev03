@@ -148,35 +148,35 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 31,672 Contributions in the Year 2022
+> 🏆 32 Contributions in the Year 2022
  > 
-> 📦 10.6 MB Used in GitHub's Storage 
+> 📦 5.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 255 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-🌆 Daytime    291 commits    ██████████░░░░░░░░░░░░░░░   41.22% 
-🌃 Evening    172 commits    ██████░░░░░░░░░░░░░░░░░░░   24.36% 
-🌙 Night      138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
+🌞 Morning    10 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+🌆 Daytime    30 commits    ██████████░░░░░░░░░░░░░░░   41.22% 
+🌃 Evening    5  commits    ██████░░░░░░░░░░░░░░░░░░░   24.36% 
+🌙 Night      15 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
-Tuesday      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
-Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-Friday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Saturday     215 commits    ███████░░░░░░░░░░░░░░░░░░   30.45% 
-Sunday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57%
+Monday       1  commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
+Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
+Wednesday    11 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Thursday     5  commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Friday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+Saturday     15 commits     ███████░░░░░░░░░░░░░░░░░░   30.45% 
+Sunday       11 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57%
 
 ```
 
@@ -184,7 +184,7 @@ Sunday       117 commits    ████░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
 Other                    10 hrs 1 min        █████████████████████████   100.0%
@@ -193,32 +193,22 @@ Other                    10 hrs 1 min        ███████████�
 Browser                  10 hrs 1 min        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-JayantGoel001.github.io  10 hrs 1 min        █████████████████████████   100.0%
+ShohimardonDev03.github.io  10 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  10 hrs 1 min        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35% 
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+Linux                  10 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
 
 
- Last Updated on 30/10/2022 03:11:45 UTC
+
+
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@shohimardon_dev/47043510-c08a-432c-b967-3a76209564dc.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@shohimardon_dev/81580429-8c4e-4fcb-b090-1d30974e536a.svg" />
 </p>
 
 #
@@ -235,50 +225,27 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+  <a href="https://www.linkedin.com/in/shohimardon-abdurashitov/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+  <a href="https://www.instagram.com/shohimardonabdurashidov/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+  <a href="https://twitter.com/shohimardon_dev" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+  <a href="http://ec2-18-202-217-78.eu-west-1.compute.amazonaws.com:5454">
+    <code><img src="SVG/dev.svg" alt="Shohimardon's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-  </a>
 
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-  </a>
-</p>
 
 <br/>
 <br/>
@@ -291,4 +258,4 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 #
 
-![footer](WEBP/footer.webp)
+![footer](https://github.com/JayantGoel001/JayantGoel001/tree/master/WEBP/footer.webp)
