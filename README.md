@@ -97,7 +97,7 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShohimardonDev03&theme=react-dark&hide_border=true&area=true)
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+#![3D Profile](https://wakatime.com/share/@shohimardon_dev/f7eab8c1-909f-439a-a801-ebcb1baad082.svg)
 
 <h4 align="center">
   
