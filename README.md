@@ -154,6 +154,6 @@
 </div>
 
 <h1 align="center">
-	<img alt="GIF" src="https://media2.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif?cid=790b761165801ddfacda2281d3fa3909e341a2bcacae1f03&rid=giphy.gif&ct=g">
+	<img alt="GIF" src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif">
 	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
 </h1>
