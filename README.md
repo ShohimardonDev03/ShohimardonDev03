@@ -25,12 +25,12 @@
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://gpvc.arturio.dev/ShohimardonDev03" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+ 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ShohimardonDev03?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/ShohimardonDev03?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+ 
 </p>
 <!-- <p align="center">
   <code>
@@ -40,11 +40,11 @@
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ShohimardonDev03&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=best)
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShohimardonDev03&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
