@@ -1,159 +1,297 @@
-
 <h1 align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Shohimardon Abdurashitov!;Welcome+to+my+GitHub+Profile!">
+    <img src="GIF/Earth.gif" width="24px">
+    𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+    <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<h1 align="center">
-	<a href="https://github.com/ShohimardonDev03" target="_self">
-		<img alt="GIF" src="http://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif">
-	</a>
-</h1>
+<br/>
+<br/>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+- 💻 I am Java backend and Database developer.
+- 📝 I have a strong interest in Data Science and Artificial Intelligence
+- 🌱 Learning about Computer Vision and Machine Learning stuff
+- 🌟 Main languages: Java, C++
+- 🤔 I’m currently open for: this is <a href="http://ec2-18-202-217-78.eu-west-1.compute.amazonaws.com:5454" target="_blank">MY RESUME in Aws server.</a>
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/ShohimardonDev03/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+<br/>
+<br/>
+
+
+<p align="center">
+    <img src="https://gpvc.arturio.dev/ShohimardonDev03" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •
+    <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=ShohimardonDev03&style=flat&color=brightgreen"> •    -->
+    <a href="https://user-badge.committers.top/india_private/ShohimardonDev03"><img src="https://user-badge.committers.top/india_private/ShohimardonDev03.svg"></a> •
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ShohimardonDev03?label=Followers&style=social"> •
+    <img src="https://img.shields.io/github/stars/ShohimardonDev03?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+    <a href="https://github.com/sponsors/ShohimardonDev03"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
+<!-- <p align="center">
+  <code>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FShohimardonDev03" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+  </code>
+</p> -->
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ShohimardonDev03&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+    <img height="150" width="150" src="WEBP/left.webp">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShohimardonDev03&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
+#
+
+<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+<br/>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
+
+<br/>
+<br/>
+
+
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+#
+
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+
+
+<br/>
+
+#
+
+<details open="">
+    <summary>
+        <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+        <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+    </summary>
+    <br/>
+
+    <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShohimardonDev03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+        <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohimardonDev03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    </p>
+</details>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShohimardonDev03&theme=react-dark&hide_border=true&area=true)
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+<h4 align="center">
+
+    ```diff
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    @@       o o                                           @@
+    @@       | |                                           @@
+    @@      _L_L_                                          @@
+    @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+    @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+    @@   ❮/ \`-'/ \❯                                       @@
+    @@     _/`U'\_                                         @@
+    @@    ( .   . )     .----------------------------.     @@
+    @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+    @@   \ |  ,  | /    '----------------------------'     @@
+    @@    \|=====|/                                        @@
+    @@     |_.^._|                                         @@
+    @@     | |"| |                                         @@
+    @@     ( ) ( )   Testing leads to failure              @@
+    @@     |_| |_|   and failure leads to understanding    @@
+    @@ _.-' _j L_ '-._                                     @@
+    @@(___.'     '.___)                                    @@
+    +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+    ```
+
+</h4>
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
+<br/>
+
+#
+
+<summary>
+    <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+    <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@ShohimardonDev03/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+
+<br>
 <br>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C233%20hrs%203%20mins-blue)
 
-### 📖 About me
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
-<hr>
-<pre>
-💻 I am Java backend and Database developer.
+**🐱 My GitHub Data**
 
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
-🤔 I’m currently open for: this is <a href="http://ec2-18-202-217-78.eu-west-1.compute.amazonaws.com:5454/">MY RESUME.</a>
-</pre>
-<hr>
+> 🏆 31,672 Contributions in the Year 2022
+>
+> 📦 10.6 MB Used in GitHub's Storage
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 255 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+**I'm an Early 🐤**
+
+```text
+🌞 Morning    105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87%
+🌆 Daytime    291 commits    ██████████░░░░░░░░░░░░░░░   41.22%
+🌃 Evening    172 commits    ██████░░░░░░░░░░░░░░░░░░░   24.36%
+🌙 Night      138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
+
+```
+📅 **I'm Most Productive on Saturday**
+
+```text
+Monday       52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.37%
+Tuesday      63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.92%
+Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14%
+Thursday     54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65%
+Friday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9%
+Saturday     215 commits    ███████░░░░░░░░░░░░░░░░░░   30.45%
+Sunday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.57%
+
+```
 
 
-<h3 align="center">Connect with me:</h3>
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+Other                    10 hrs 1 min        █████████████████████████   100.0%
+
+🔥 Editors:
+Browser                  10 hrs 1 min        █████████████████████████   100.0%
+
+🐱‍💻 Projects:
+ShohimardonDev03.github.io  10 hrs 1 min        █████████████████████████   100.0%
+
+💻 Operating System:
+Windows                  10 hrs 1 min        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Jupyter Notebook**
+
+```text
+Jupyter Notebook         21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43%
+Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35%
+C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+
+```
+
+
+
+Last Updated on 30/10/2022 03:11:45 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ShohimardonDev03/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@ShohimardonDev03/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</p>
+
+#
+
+<p align="center">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
+<h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+
+<p align="center">
+    <img width="75%" src="metrics.svg"/>
+    <img src="metrics.detailed.svg" width="75%"/>
+</p>
+
+<h1>
+    Connect With Me
+    <img src="GIF/Handshake.gif" height="25px">
+</h1>
+
+<p align="center">
+    <br>
+    <a href="https://www.linkedin.com/in/ShohimardonDev03/" target="_blank">
+        <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+    </a>
+    <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+        <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+    </a>
+    <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+        <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+    </a>
+    <a href="https://twitter.com/ShohimardonDev03" target="_blank">
+        <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+    </a>
+    <a href="https://dev.to/jayantgoel001">
+        <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    </a>
+</p>
+<br/>
+
+<p align="center">
+    <a href="https://www.hackerrank.com/ShohimardonDev03/" target="_blank">
+        <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+    </a>
+
+    <a href="http://www.codeforces.com/profile/ShohimardonDev03" target="_blank">
+        <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
+    </a>
+
+    <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
+        <code><img height="60" width="60" src="SVG/he.svg"/></code>
+    </a>
+
+    <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
+        <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+    </a>
+
+    <a href="https://leetcode.com/ShohimardonDev03/" target="_blank">
+        <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+    </a>
+</p>
+
+<br/>
+<br/>
+
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohimardon-abdurashitov)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shohimardon_dev)
-[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shohimardon_dev)
-	
-</div>
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a>
-&emsp;
-
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-  
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Frameworks
-<p>
-	<img src="http://img.shields.io/badge/-Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Springboot-629e3a?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;&nbsp;
-	<img src="http://img.shields.io/badge/-Project%20Reactor-6db33f?style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />&nbsp;&nbsp;
-<!-- 	<img src="" />&nbsp;&nbsp; -->
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p>
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
- </p>
-
- ### 👉 Software & Tools
- <p>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-	
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenApi-6BA539?&style=for-the-badge&logo=openapi-initiative&logoColor=F7F7F7" />&nbsp;&nbsp;
-	
-   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
- 
-	
-</p>
-
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project on Aws server</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-      <td><b>🔑 Password</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="http://ec2-3-250-156-112.eu-west-1.compute.amazonaws.com:9090/login"><b>Online-shop </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    <td><p>admin's password:admin username 🔑:123 |user's username:user passowrd: 123</p></td>
-    </tr>
-    <tr>
-      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:2003/swagger-ui/index.html"><b>Trello clone</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    <td><p>--</p></td>
-   </tr>
-        <tr>
-      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:3000/d/X09JGT7Gz/java-springboot-apm?orgId=1"><b>Trello clone with Grafana</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-     <td><p>username: admin| password:salompusu</p></td>
-    </tr>
-        <tr>
-      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:9090/graph?g0.expr=&g0.tab=1&g0.stacked=0&g0.show_exemplars=0&g0.range_input=1h"><b>Trello clone with prometheus</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-     <td><p>---</p></td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-### :fire: My Github Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uz-java&theme=dark&background=000000)](https://github.com/shohimardonDev03/)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shohimardonDev03&theme=dark&background=000000"
-    alt="adam-pw" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uz-java&theme=dark&background=000000)](https://github.com/uz-java/)
+    ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
 
-<h1 align="center">
-	<img alt="GIF" src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
-</h1>
+#
+
+![footer](WEBP/footer.webp)
