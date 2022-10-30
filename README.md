@@ -219,8 +219,8 @@ Linux                  10 hrs 1 min        ████████████�
 </p>
 
 <p align="center">
-  <img width="75%" src="metrics.svg"/>
-  <img src="metrics.detailed.svg" width="75%"/>
+  <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg" width="75%"/>
 </p>
 
 <h1>
@@ -240,7 +240,7 @@ Linux                  10 hrs 1 min        ████████████�
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
   </a>
   <a href="http://ec2-18-202-217-78.eu-west-1.compute.amazonaws.com:5454">
-    <code><img src="SVG/dev.svg" alt="Shohimardon's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://github.com/JayantGoel001/JayantGoel001/tree/master/SVG/dev.svg" alt="Shohimardon's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
