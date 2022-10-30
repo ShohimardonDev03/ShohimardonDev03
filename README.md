@@ -5,7 +5,7 @@
 
 <h1 align="center">
 	<a href="https://github.com/ShohimardonDev03" target="_self">
-		<img alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+		<img alt="GIF" src="http://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy-downsized-large.gif">
 	</a>
 </h1>
 <br>
