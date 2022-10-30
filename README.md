@@ -87,6 +87,8 @@
 <details open="">
     <summary>
         <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+    
+        
         <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
     </summary>
     <br/>
@@ -97,10 +99,9 @@
     </p>
 </details>
 <br/>
+true)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ShohimardonDev03&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+![svg](https://raw.githubusercontent.com/ShohimardonDev03/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 <h4 align="center">
 
@@ -139,7 +140,7 @@
     <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@ShohimardonDev03/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+    <a href="https://wakatime.com/@f23d4a1a-0660-472f-b1ab-c6e2ec5e0dcd"><img src="https://wakatime.com/badge/user/f23d4a1a-0660-472f-b1ab-c6e2ec5e0dcd.svg" alt="Total time coded since May 24 2022" /></a>
 
 <br>
 <br>
@@ -151,23 +152,23 @@
 
 **🐱 My GitHub Data**
 
-> 🏆 31,672 Contributions in the Year 2022
+> 🏆 672 Contributions in the Year 2022
 >
-> 📦 10.6 MB Used in GitHub's Storage
+> 📦 5.6 MB Used in GitHub's Storage
 >
 > 🚫 Not Opted to Hire
 >
-> 📜 255 Public Repositories
+> 📜 25 Public Repositories
 >
 > 🔑 0 Private Repositories
 >
 **I'm an Early 🐤**
 
 ```text
-🌞 Morning    105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87%
-🌆 Daytime    291 commits    ██████████░░░░░░░░░░░░░░░   41.22%
-🌃 Evening    172 commits    ██████░░░░░░░░░░░░░░░░░░░   24.36%
-🌙 Night      138 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
+🌞 Morning    20 commits    ██░░░░░░░░░░░░░░░░░░░░░░   14.87%
+🌆 Daytime    21 commits    ██████████░░░░░░░░░░░░░░░   41.22%
+🌃 Evening    12 commits    ██████░░░░░░░░░░░░░░░░░░░   24.36%
+🌙 Night      13 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55%
 
 ```
 📅 **I'm Most Productive on Saturday**
@@ -187,7 +188,7 @@ Sunday       117 commits    ████░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Toshkent
 
 💬 Programming Languages:
 Other                    10 hrs 1 min        █████████████████████████   100.0%
@@ -199,30 +200,14 @@ Browser                  10 hrs 1 min        ███████████�
 ShohimardonDev03.github.io  10 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System:
-Windows                  10 hrs 1 min        █████████████████████████   100.0%
+Linux                  10 hrs 1 min        █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in Jupyter Notebook**
-
-```text
-Jupyter Notebook         21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43%
-Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.35%
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27%
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
 
 ```
 
 
 
-Last Updated on 30/10/2022 03:11:45 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-    <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@ShohimardonDev03/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-    <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@ShohimardonDev03/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
 
 #
 
@@ -243,16 +228,19 @@ Last Updated on 30/10/2022 03:11:45 UTC
 
 <p align="center">
     <br>
-    <a href="https://www.linkedin.com/in/ShohimardonDev03/" target="_blank">
+    <a href="https://www.linkedin.com/in/shohimardon-abdurashitov" target="_blank">
         <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
     </a>
-    <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
+      <a href="https://t.me/shohimardon_dev" target="_blank">
+        <code><img height="60" width="60" src="SVG/telegram.svg"/></code>
+    </a>
+    <a href="https://www.facebook.com/shohimardon.abdurashidov/" target="_blank">
         <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
     </a>
-    <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+    <a href="https://www.instagram.com/shohimardonabdurashidov/" target="_blank">
         <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
     </a>
-    <a href="https://twitter.com/ShohimardonDev03" target="_blank">
+    <a href="https://twitter.com/shohimardon_dev" target="_blank">
         <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
     </a>
     <a href="https://dev.to/jayantgoel001">
@@ -261,27 +249,7 @@ Last Updated on 30/10/2022 03:11:45 UTC
 </p>
 <br/>
 
-<p align="center">
-    <a href="https://www.hackerrank.com/ShohimardonDev03/" target="_blank">
-        <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
-    </a>
 
-    <a href="http://www.codeforces.com/profile/ShohimardonDev03" target="_blank">
-        <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
-    </a>
-
-    <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-        <code><img height="60" width="60" src="SVG/he.svg"/></code>
-    </a>
-
-    <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-        <code><img height="60" width="60" src="SVG/cc.svg"/></code>
-    </a>
-
-    <a href="https://leetcode.com/ShohimardonDev03/" target="_blank">
-        <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
-    </a>
-</p>
 
 <br/>
 <br/>
