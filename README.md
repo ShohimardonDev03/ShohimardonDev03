@@ -38,9 +38,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ShohimardonDev03&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
+  <img height="150" width="150" src="https://camo.githubusercontent.com/608a4055cf857cf38f463650d82d83c0bab71052150416fc1c9a3144dcc33900/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f63793932303832302f63793932303832302f6173736574732f77696e672d6c6566742e706e67">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShohimardonDev03&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp">
+  <img height="150" width="150" src="https://camo.githubusercontent.com/e13ad58ae9a1b7c0a3f69745c4156a7aee3126436052f873266861b12bc1ee33/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f63793932303832302f63793932303832302f6173736574732f77696e672d72696768742e706e67">
 </p>
 
 #
