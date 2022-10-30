@@ -125,7 +125,7 @@
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+
 
 <br/>
 
@@ -136,7 +136,7 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@shohimardon_dev/45d9badf-3474-4c66-9e0a-f7678bf69a22.svg" >
 
 <br>
 <br>
