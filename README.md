@@ -140,7 +140,7 @@ true)
     <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-    <a href="https://wakatime.com/@f23d4a1a-0660-472f-b1ab-c6e2ec5e0dcd"><img src="https://wakatime.com/badge/user/f23d4a1a-0660-472f-b1ab-c6e2ec5e0dcd.svg" alt="Total time coded since May 24 2022" /></a>
+<figure><embed src="https://wakatime.com/share/@shohimardon_dev/f7eab8c1-909f-439a-a801-ebcb1baad082.svg"></embed></figure>
 
 <br>
 <br>
