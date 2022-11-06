@@ -230,6 +230,45 @@ Linux                  10 hrs 1 min        ████████████�
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+  
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project on Aws server</b></td>
+      <td><b>⭐️ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+      <td><b>🔑 Password</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://ec2-3-250-156-112.eu-west-1.compute.amazonaws.com:9090/login"><b>Online-shop </b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    <td><p>admin's password:admin username 🔑:123 |user's username:user passowrd: 123</p></td>
+    </tr>
+    <tr>
+      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:2003/swagger-ui/index.html"><b>Trello clone</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    <td><p>--</p></td>
+   </tr>
+        <tr>
+      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:3000/d/X09JGT7Gz/java-springboot-apm?orgId=1"><b>Trello clone with Grafana</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+     <td><p>username: admin| password:salompusu</p></td>
+    </tr>
+        <tr>
+      <td><a href="http://ec2-34-243-94-228.eu-west-1.compute.amazonaws.com:9090/graph?g0.expr=&g0.tab=1&g0.stacked=0&g0.show_exemplars=0&g0.range_input=1h"><b>Trello clone with prometheus</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+     <td><p>---</p></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 </p>
 
 
